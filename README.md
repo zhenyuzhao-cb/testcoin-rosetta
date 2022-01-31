@@ -1,0 +1,2 @@
+# testcoin
+Coin for test
