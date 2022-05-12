@@ -1,6 +1,8 @@
 #!/bin/sh
 
+
 VERSION=0.2.7
+
 
 while :
 do 
